@@ -1,0 +1,61 @@
+8. ¿Qué es un wireframe y cuál es su función principal en el proceso de diseño de un sitio web?
+Un wireframe es un boceto o representación esquemática de una página web o aplicación que muestra la estructura básica de su contenido y funcionalidad sin incluir detalles visuales o gráficos. Su función principal es servir como una guía estructural durante la fase inicial del diseño, ayudando a:
+
+Visualizar cómo se organizará la información.
+Determinar la jerarquía de los elementos en la página.
+Facilitar la comunicación entre los diseñadores, desarrolladores y clientes.
+Probar y ajustar conceptos de diseño antes de comprometerse con detalles gráficos y de código.
+¿Cuáles son las diferencias entre los wireframes de baja fidelidad y los de alta fidelidad, y en qué situaciones se recomienda usar cada uno?
+Wireframes de baja fidelidad:
+
+Características:
+Son simples y esquemáticos.
+Generalmente se crean a mano o con herramientas básicas.
+Usan formas básicas (cajas, líneas, texto genérico como "Lorem Ipsum").
+Ventajas:
+Rápidos de crear.
+Fáciles de modificar durante las fases iniciales.
+Cuándo usar:
+Al inicio del proyecto para conceptualizar ideas generales.
+Para obtener retroalimentación temprana de la estructura y funcionalidad sin preocuparse por los detalles.
+Wireframes de alta fidelidad:
+
+Características:
+Son más detallados y realistas.
+Pueden incluir elementos gráficos, tipografía y proporciones más precisas.
+Usan herramientas avanzadas de diseño como Figma o Adobe XD.
+Ventajas:
+Representan una visión más cercana al producto final.
+Ayudan a evaluar la usabilidad con mayor precisión.
+Cuándo usar:
+Durante etapas avanzadas del diseño, antes del prototipado interactivo.
+Para presentaciones a clientes o equipos técnicos.
+¿Por qué es importante realizar una investigación de usuario antes de crear un wireframe, y qué aspectos se deben considerar durante esta investigación?
+La investigación de usuario es crucial porque asegura que el diseño se alinee con las necesidades, expectativas y comportamientos del público objetivo. Sin esta etapa, es probable que el diseño no cumpla con los objetivos del usuario ni del negocio.
+
+Aspectos a considerar:
+
+Identificación del público objetivo: Quiénes son los usuarios finales y cuáles son sus características demográficas y psicográficas.
+Objetivos y problemas: Qué necesitan resolver o lograr los usuarios al usar el sitio.
+Comportamientos: Cómo interactúan con sitios similares o productos digitales.
+Flujo de usuario: El camino típico que siguen los usuarios para completar tareas específicas.
+Preferencias tecnológicas: Dispositivos y navegadores más usados por los usuarios.
+La información obtenida se traduce en decisiones sobre la estructura del wireframe, priorizando lo que realmente importa para los usuarios.
+
+¿Qué elementos clave deben incluirse en un wireframe para asegurar que se comunique efectivamente la estructura y funcionalidad del sitio?
+Un wireframe efectivo debe incluir:
+
+Encabezado y pie de página: Elementos globales como el logotipo, navegación principal, enlaces a redes sociales o secciones legales.
+Navegación: Menús, barras de búsqueda y enlaces claros que indiquen cómo moverse por el sitio.
+Jerarquía de contenido: Títulos, subtítulos, bloques de texto y espacio para imágenes.
+Llamados a la acción (CTAs): Botones o enlaces para las acciones principales que el usuario debe realizar.
+Distribución del diseño: Organización de columnas, secciones y cajas de contenido.
+Indicaciones funcionales: Marcadores para funcionalidades específicas, como formularios, carruseles, mapas o videos.
+¿Cómo contribuye CSS a lograr que el wireframe elaborado pueda ser desarrollado en una página web?
+CSS (Cascading Style Sheets) es esencial para convertir el wireframe estático en un diseño visual atractivo y funcional en la web. Contribuye al desarrollo de las siguientes maneras:
+
+Estilo visual: Define colores, fuentes, tamaños y estilos para darle vida al diseño.
+Disposición: Usa propiedades como grid o flexbox para estructurar los elementos según la disposición del wireframe.
+Adaptabilidad: Permite crear diseños responsivos que se ajusten a diferentes tamaños de pantalla.
+Interactividad: Facilita transiciones y animaciones que enriquecen la experiencia de usuario.
+Consistencia: Asegura que todos los elementos del sitio sigan un estilo unificado, como lo previsto en el wireframe.
